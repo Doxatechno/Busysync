@@ -17,7 +17,7 @@ API_KEY    = "OA1sDvOsoQKKTVH91b7okphmKObl-FCea4-K8sXDfzI"
 AGENT_VERSION  = "1.0.0"
 APP_NAME       = "BusySyncAgent"
 BUSY_URL       = "http://localhost:981"
-BUSY_PROCESSES = {"busy.exe", "busywin.exe", "busyaccount.exe"}
+BUSY_PROCESSES = {"busy.exe", "busywin.exe", "busyaccount.exe", "busy21.exe", "busy20.exe", "busy19.exe"}
 
 APP_DIR    = Path(os.getenv("APPDATA", ".")) / APP_NAME
 LOG_FILE   = APP_DIR / "agent.log"
