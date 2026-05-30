@@ -12,7 +12,7 @@ except ImportError:
     TRAY_AVAILABLE = False
 
 SERVER_URL = "https://busysync-production.up.railway.app"
-API_KEY    = "HC7zCDjNNcvyhw2DgGJwfxWQJxs_ZqQbsXrmUjVtO84"
+API_KEY    = "OA1sDvOsoQKKTVH91b7okphmKObl-FCea4-K8sXDfzI"
 
 AGENT_VERSION  = "1.0.0"
 APP_NAME       = "BusySyncAgent"
